@@ -1,0 +1,51 @@
+// Sample order data
+export const initialOrders = [
+  {
+    id: "01",
+    product: "Pizza",
+    customer: "Farvez Sir",
+    date: "11 Oct 2024",
+    amount: "52",
+    status: "Pending",
+  },
+  {
+    id: "02",
+    product: "Hoodie",
+    customer: "Farvez Sir",
+    date: "11 Oct 2024",
+    amount: "52",
+    status: "Processing",
+  },
+  {
+    id: "03",
+    product: "Hoodie",
+    customer: "Farvez Sir",
+    date: "11 Oct 2024",
+    amount: "52",
+    status: "Delivered",
+  },
+  {
+    id: "04",
+    product: "Hoodie",
+    customer: "Farvez Sir",
+    date: "11 Oct 2024",
+    amount: "52",
+    status: "Pending",
+  },
+  {
+    id: "05",
+    product: "Hoodie",
+    customer: "Farvez Sir",
+    date: "11 Oct 2024",
+    amount: "52",
+    status: "Processing",
+  },
+  {
+    id: "06",
+    product: "Hoodie",
+    customer: "Farvez Sir",
+    date: "11 Oct 2024",
+    amount: "52",
+    status: "Delivered",
+  },
+];
